@@ -7,7 +7,7 @@ This project enhances the Grazioso Salvare animal shelter dashboard by improving
 
 ## Live Dashboard
 
-https://grazioso-salvare-dashboard-milestone-two.onrender.com/
+https://grazioso-salvare-dashboard-milestone.onrender.com
 
 Authentication is required. Login credentials are provided in the zip README.
 
